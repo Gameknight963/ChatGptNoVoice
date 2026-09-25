@@ -1,3 +1,7 @@
+# They added a setting to disable it
+Also this implementation was not good, a userstyle would've been better
+### Basically just don't install this
+
 # ChatGPT No Voice Button
 
 This Tampermonkey userscript removes the annoying Voice and Dictate buttons from ChatGPT and adds the old grayed out Send Prompt to replace them. It does this by continuously monitoring the page for changes using a MutationObserver and a configurable check interval
